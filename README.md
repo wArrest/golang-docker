@@ -7,5 +7,5 @@ RUN go build -o main [your path]
 
 3. 完成后，编译镜像
 ```
-docker build . -t myapp:1.0
+docker build . -t [image name]:1.0
 ```
